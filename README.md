@@ -1,4 +1,4 @@
-# Bill-Saver
+# Bill Saver
 ## Introduction
 Bill Saver is an app built with React and powered by Hedera's blazing fast API which allows a user to see previously-stored bills. 
 
