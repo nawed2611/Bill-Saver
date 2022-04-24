@@ -1,0 +1,7 @@
+.home {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  flex-direction: column;
+}
