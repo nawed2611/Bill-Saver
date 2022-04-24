@@ -4,4 +4,8 @@ Bill Saver is an app built with React and powered by Hedera's blazing fast API w
 
 The app stores it in the blockchain, so it can't be tampered with at any time, and so the bank statements and other private information cannot be back or leaked.
 
+This project was made for HackUNT Hackathon
+[Other Repo](https://github.com/EpicCodeWizard/BillSaver)
+
+
 
