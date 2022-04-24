@@ -12,7 +12,7 @@ export default function App() {
           <Link to="/">
             <h1 className="logo">Bill Saver</h1>
           </Link>
-          <a target="_blank" href="https://github.com/HKgame01/HackUNT">
+          <a target="_blank" href="https://github.com/nawed2611/Bill-Saver">
             <h1 className="github">GitHub Repo</h1>
           </a>
           <Tips />
